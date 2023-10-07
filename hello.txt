@@ -1,2 +1,3 @@
 hi from git 
 today we r learning git
+added new line
